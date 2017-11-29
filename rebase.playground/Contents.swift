@@ -4,6 +4,9 @@ import UIKit
 
 var str = "Hello, playground"
 
+
+// This is a great little program that does really cool things
+
 "This is a rebase playground"
 
 func doThings() -> Bool {
