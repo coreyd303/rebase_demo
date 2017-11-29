@@ -11,3 +11,12 @@ func doThings() -> Bool {
     return true
 }
 
+func newStuff() {
+    if doThings() {
+        "Woohoo!"
+    } else {
+        "BOOOOOOOO!"
+    }
+}
+
+newStuff()
