@@ -6,19 +6,3 @@ var str = "Hello, playground"
 
 "This is a rebase playground"
 
-// This is a great little program that does really cool things
-
-func doThings() -> Bool {
-    print("Look ma, I can do the things!")
-    return true
-}
-
-func newStuff() {
-    if doThings() {
-        "Woohoo!"
-    } else {
-        "BOOOOOOOO!"
-    }
-}
-
-newStuff()
