@@ -6,3 +6,8 @@ var str = "Hello, playground"
 
 "This is a rebase playground"
 
+func doThings() -> Bool {
+    print("Look ma, I can do the things!")
+    return true
+}
+
